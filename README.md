@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kuldeep Gupta
 
-Tech Lead / Staff Engineer with 10+ years of experience designing and building **scalable, business-critical backend systems**.  
+Tech Lead / Staff Engineer with 11 years of experience designing and building **scalable, business-critical backend systems**.  
 I work hands-on while leading architecture, system design, and engineering execution for high-impact platforms.
 
 ---
